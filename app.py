@@ -41,10 +41,11 @@ if uploaded_file is not None:
     # Sentiment Analysis Function
     def get_sentiment(text):
         analysis = TextBlob(str(text))
-        # Polarity ranges from -1 (negative) to 1 (positive)
-        if analysis.sentiment.polarity > 0.1:
+        polarity = analysis.sentiment.polarity
+
+        if polarity > 0.1:
             return "Positive"
-        elif analysis.sentiment.polarity < -0.1:
+        elif polarity < 0.0:  
             return "Negative"
         else:
             return "Neutral"
