@@ -35,7 +35,10 @@ Top praises: **music**, **organization**
 Top complaints: **queues**, **sound system**
 
 ## Portfolio Context
-Built in March 2026 as a demonstration of self-directed learning and practical AI/ML application for my **NUS School of Computing** and **NTU College of Computing & Data Science** applications.
+
+This project was born out of a real-world need. As Head Boy, My council organized a Christmas carnival attended by over 2,000 students. The event generated a substantial amount of qualitative feedback, but manually parsing hundreds of comments to identify what worked and what didn't was impractical.
+
+I built the **Carnival Feedback Analyzer** to automate that process—turning raw attendee comments into clear, actionable insights. It uses **natural language processing** to gauge sentiment and surface recurring themes, making it easier for future event organizers to make data-informed decisions.
 
 ## AI-Assisted Development Disclosure
 Generative AI (Claude) was used as a coding assistant to:
