@@ -10,8 +10,7 @@ Manually processing feedback from 2,000 people is impractical. I built this to:
 - Guide improvements for future events
 
 ## Live Demo
-🔗 **[Try the app here](https://carnival-feedback-analyzer-abc123.streamlit.app)**  
-*(Replace this link with your actual Streamlit Cloud URL after deployment)*
+*The application is fully functional locally. To run it, follow the instructions in the "How to Run Locally" section below. A cloud deployment is pending due to Streamlit Community Cloud build queue delays. The source code and documentation are complete and available in this repository.*
 
 ## Technical Implementation
 - **Frontend:** Streamlit (Python)
