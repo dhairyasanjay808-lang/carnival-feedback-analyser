@@ -1,4 +1,4 @@
-# 🎪 Carnival Feedback Analyzer
+# Carnival Feedback Analyzer
 
 ## Overview
 This tool was developed to analyze attendee feedback from the first-ever Christmas Carnival me and my council organized of **GD GOENKA INTERNATIONAL SCHOOL, SURAT**. The event hosted over **2,000 attendees**. This project automates sentiment analysis to provide actionable insights for future large-scale student events.
